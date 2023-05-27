@@ -5,10 +5,11 @@ date_default_timezone_set('Asia/Jakarta');
 error_reporting(0);
 
 
-
-$countTarget    = '5'; 
-$sleep_1        = '120'; 
-$sleep_2        = '120';
+// EDIT DARI SINI
+$countTarget    = '5'; //Ambil jumlah akun per target
+$sleep_1        = '120';  //Jeda per view story
+$sleep_2        = '120'; //Jeda per view story 1 akun user
+// SAMPAI SINI 
 
 $saveFile 		= 'logData.txt'; 
 $cookieFile 	= 'cookieData.txt'; 
