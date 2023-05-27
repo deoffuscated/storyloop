@@ -7,7 +7,7 @@ error_reporting(0);
 
 // EDIT DARI SINI
 $countTarget    = '5'; //Ambil jumlah akun per target
-$sleep_1        = '120';  //Jeda per view story
+$sleep_1        = '120'; //Jeda per view story
 $sleep_2        = '120'; //Jeda per view story 1 akun user
 // SAMPAI SINI 
 
