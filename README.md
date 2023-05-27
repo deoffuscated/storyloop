@@ -1,7 +1,6 @@
 # StoryLoop
 
 StoryLoop it’s a console-based script created for massvoting (mass poll voting) and masslooking stories
-(credit to @theaxe.id)
 
 # Features
 
@@ -20,4 +19,5 @@ $ cd storyloop
 $ php login.php
 $ php run.php
 ```
+# Credit to @theaxe.id 
 # DWYOR
