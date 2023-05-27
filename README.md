@@ -11,7 +11,7 @@ StoryLoop it’s a console-based script created for massvoting (mass poll voting
 
 # Installation
 
-StoryLoop requires [PHP](https://www.php.net/) 5.6 to run.
+StoryLoop requires minimum [PHP](https://www.php.net/) 5.6 to run.
 
 ```sh
 $ git clone https://github.com/deoffuscated/storyloop
