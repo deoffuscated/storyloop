@@ -11,6 +11,7 @@ $sleep_1        = '120';  //Jeda per view story
 $sleep_2        = '120'; //Jeda per view story 1 akun user
 // SAMPAI SINI 
 
+$answerFile		= 'storyAnswer.txt'; 
 $saveFile 		= 'logData.txt'; 
 $cookieFile 	= 'cookieData.txt'; 
 $targetFile 	= 'targetData.txt'; // File target
